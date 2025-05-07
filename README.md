@@ -27,15 +27,5 @@ This is a smart and powerful Text Summarization web app built using **TensorFlow
 
 ---
 
-## 🖥️ Demo
 
-![Demo Screenshot](demo_image.png) <!-- Optional: Add your screenshot -->
 
----
-
-## 📦 Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/text-summarizer-tf.git
-   cd text-summarizer-tf
