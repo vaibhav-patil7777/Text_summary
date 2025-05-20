@@ -1,6 +1,6 @@
 # Text_summary
 
-# 🧠 AI Text Summarizer (TensorFlow + Streamlit)
+# 🧠 AI Text Summarizer & QA APP (TensorFlow + Streamlit)
 
 This is a smart and powerful Text Summarization web app built using **TensorFlow**, **HuggingFace Transformers**, and **Streamlit**. It uses advanced NLP models like `google/pegasus-cnn_dailymail` or `t5-small` to generate meaningful, human-like summaries of long articles or documents.
 
@@ -14,6 +14,7 @@ This is a smart and powerful Text Summarization web app built using **TensorFlow
 - ✅ Clean and interactive UI using Streamlit
 - ✅ One-click summary generation
 - ✅ TensorFlow-based (no PyTorch required)
+- ✅ To get ans based on paragraph
 
 ---
 
