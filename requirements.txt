@@ -1,5 +1,4 @@
-# requirements.txt
-python_version == 3.12
+
 
 streamlit==1.32.2
 transformers==4.40.1
